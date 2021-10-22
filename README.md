@@ -1,2 +1,2 @@
 # tugas.html
-ini adalah daftar pemesanan pizza
+ini adalah tugas html
